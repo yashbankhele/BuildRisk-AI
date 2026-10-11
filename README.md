@@ -399,10 +399,3 @@ Add a license of your choice (e.g., MIT) and place it in a `LICENSE` file.
 **Yash Bankhele**
 - GitHub: [@yashbankhele](https://github.com/yashbankhele)
 
----
-
-### Suggested GitHub description
-**BuildRisk AI: An ML-powered construction project dashboard for delay-risk classification, delay estimation, and cost-overrun early warning.**
-
-### Suggested resume bullet (after you have run and verified it)
-Built a Streamlit-based construction risk analytics prototype using Python and scikit-learn to classify delay risk, estimate delay days, and assess cost-overrun probability, with model evaluation and interactive project KPIs. Dataset is synthetic.
