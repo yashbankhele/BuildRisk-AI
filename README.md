@@ -2,7 +2,7 @@
 
 An end-to-end portfolio project for construction/EPC project controls. It combines a synthetic project dataset, machine-learning models, an interactive Streamlit dashboard, risk indicators, and reproducible evaluation.
 
-> **Important:** the included data is synthetic and is not from Ellora EPC or any real contractor. The application is a portfolio prototype, not a validated construction forecasting tool.
+> **Important:** the included data is synthetic and is not from Ellora any real contractor. The application is a portfolio prototype, not a validated construction forecasting tool.
 
 ## What it does
 - Classifies delay risk as Low / Medium / High.
