@@ -1,0 +1,11 @@
+{
+  "synthetic_data": true,
+  "rows": 2500,
+  "test_rows": 500,
+  "delay_risk_accuracy": 0.498,
+  "delay_risk_macro_f1": 0.5041,
+  "delay_days_mae": 17.58,
+  "cost_overrun_accuracy": 0.746,
+  "cost_overrun_roc_auc": 0.8261,
+  "warning": "Metrics measure performance on synthetic holdout data only; they are not evidence of real-world EPC accuracy."
+}
